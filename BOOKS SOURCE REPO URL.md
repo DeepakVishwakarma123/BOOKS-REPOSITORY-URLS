@@ -1,7 +1,6 @@
 # BOOK REPOSITORY URLS
 
 <h1> Devops Books Resources Url </h1>
-<br>
 https://github.com/rohitg00/DevOps_Books
 
 <br>
